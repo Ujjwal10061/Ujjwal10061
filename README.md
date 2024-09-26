@@ -10,3 +10,10 @@
 Ujjwal10061/Ujjwal10061 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+This is a paragraph
+
+## This is heading 2
+
+- [x] Item 1
+- [ ] Item 2
